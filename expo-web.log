@@ -1,0 +1,23 @@
+[11:43:14] Starting project at D:\ShiYi\项目相关\国开poc\LoveRecordApp
+[11:43:15] Developer tools running on http://localhost:19002
+[11:43:21] Starting Metro Bundler
+[11:43:28] Starting Webpack on port 19006 in development mode.
+
+[11:43:44] ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▄▄ ▀▀▀█▄█ ▄▄▄▄▄ █
+█ █   █ ██▄▀ █ ▀███ █   █ █
+█ █▄▄▄█ ██▀▄ ▄ ██▀█ █▄▄▄█ █
+█▄▄▄▄▄▄▄█ ▀▄█ ▀ ▀ █▄▄▄▄▄▄▄█
+█▄ ▀▄ █▄▀█▄▀█▄██▀ █▄█▀█▀▀▄█
+█▄▄▄█▀▀▄▀▀▄██▄█ ▄▀▀███▄▀▀ █
+█▀██ ▄ ▄██  █▀█▄▀█ ▄▀▀█▀ ██
+█ ▄▄█ ▀▄█▄█▄█▀▄█ ▄▀ ██▄▀  █
+█▄████▄▄▄ ▀▄ ▄▄ █ ▄▄▄  ▄▀▄█
+█ ▄▄▄▄▄ ██▄█▀▄  █ █▄█ ███ █
+█ █   █ █  █▄ ██▄ ▄  ▄ █▀▀█
+█ █▄▄▄█ █▀▀▀  █▄ ▄█▀▀▄█   █
+█▄▄▄▄▄▄▄█▄██▄██▄▄▄▄█▄▄███▄█
+
+[11:43:44] Your native app is running at exp://192.168.8.68:19000
+Logs for your project will appear below. Press Ctrl+C to exit.
+[11:43:49] Web Bundling complete 20849ms
